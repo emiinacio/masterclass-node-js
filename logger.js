@@ -6,7 +6,7 @@ const emitter = new EventEmitter();
 
 emitter.on('log', (message) => {
     fs.appendFile(path.join(__dirname, 'log.txt'), message, err => {
-        if(err) throw err
+        if(err) return err
     })
 })
 
