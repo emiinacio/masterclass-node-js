@@ -1,0 +1,9 @@
+{"free":"1594 MB","total":"{total} MB","usage":"19%"}m{"free":"1616 MB","total":"{total} MB","usage":"20%"}m{"free":"1598 MB","total":"{total} MB","usage":"19%"}m{"free":"1607 MB","total":"{total} MB","usage":"19%"}m{"free":"1607 MB","total":"{total} MB","usage":"19%"}m{"free":"1617 MB","total":"{total} MB","usage":"20%"}m{"free":"1615 MB","total":"{total} MB","usage":"20%"}m{"free":"1615 MB","total":"{total} MB","usage":"20%"}m{"free":"1628 MB","total":"{total} MB","usage":"20%"}m{"free":"1610 MB","total":"{total} MB","usage":"20%"}m{"free":"1607 MB","total":"{total} MB","usage":"19%"}m{"free":"1621 MB","total":"{total} MB","usage":"20%"}m{"free":"1617 MB","total":"{total} MB","usage":"20%"}m{"free":"1629 MB","total":"{total} MB","usage":"20%"}m{"free":"1630 MB","total":"{total} MB","usage":"20%"}m{"free":"1641 MB","total":"{total} MB","usage":"20%"}m{"free":"1638 MB","total":"{total} MB","usage":"20%"}m{"free":"1638 MB","total":"{total} MB","usage":"20%"}m{"free":"1638 MB","total":"{total} MB","usage":"20%"}m{"free":"1641 MB","total":"{total} MB","usage":"20%"}m{"free":"1633 MB","total":"{total} MB","usage":"20%"}m{"free":"1624 MB","total":"{total} MB","usage":"20%"}m{"free":"1625 MB","total":"{total} MB","usage":"20%"}m{"free":"1626 MB","total":"{total} MB","usage":"20%"}m{"free":"1621 MB","total":"{total} MB","usage":"20%"}m{"free":"1620 MB","total":"{total} MB","usage":"20%"}m{"free":"1619 MB","total":"{total} MB","usage":"20%"}m{"free":"1621 MB","total":"{total} MB","usage":"20%"}
+{"free":"1620 MB","total":"{total} MB","usage":"20%"}
+{"free":"1618 MB","total":"{total} MB","usage":"20%"}
+{"free":"1618 MB","total":"{total} MB","usage":"20%"}
+{"free":"1619 MB","total":"{total} MB","usage":"20%"}
+{"free":"1618 MB","total":"{total} MB","usage":"20%"}
+{"free":"1619 MB","total":"{total} MB","usage":"20%"}
+{"free":"1628 MB","total":"{total} MB","usage":"20%"}
+{"free":"1635 MB","total":"{total} MB","usage":"20%"}
