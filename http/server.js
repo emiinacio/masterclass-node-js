@@ -16,7 +16,7 @@ http.createServer((req, res) => {
     fs.readFile(
         filePath,
         (err, content) => {
-            if (err) throw err
+            if (err) return err
 
             res.end(content)
         }

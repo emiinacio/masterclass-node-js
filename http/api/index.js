@@ -10,8 +10,7 @@ function writeFile(cb) {
         path.join(__dirname, "urls.json"),
         JSON.stringify(data, null, 2)),
         err => {
-            if(err) return (err)
-                
+            if(err) return err
 
             cb(JSON.stringify({message: "ok"}))
         }
@@ -20,6 +19,10 @@ function writeFile(cb) {
 http.createServer((req, res) => {
     const { name, url, del } = URL.parse(req.url, true).query
 
+    res.writeHead(200, {
+        'Acess-Control-Allow-Origin': '*'
+    });
+    
     //all resources
     if(!name || !url)
         return res.end(JSON.stringify(data))
